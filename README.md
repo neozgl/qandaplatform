@@ -1,4 +1,4 @@
-
+- This project is created from https://www.youtube.com/@dilrubakose spring boot course videos.
 # QuestApp
 
 **QuestApp** is a Java-based web application designed as a platform where users can engage in discussions, share content, and manage posts. It functions similarly to a forum or blog, providing a user-friendly interface for interaction and content management.
@@ -15,7 +15,7 @@
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/rdilruba/questapp.git
+    git clone https://github.com/neozgl/qandaplatform.git
     ```
 2. **Navigate to the project directory:**
     ```bash
